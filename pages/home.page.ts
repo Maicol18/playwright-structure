@@ -5,4 +5,9 @@ export class HomePage extends BasePage {
   constructor(page: Page) { super(page); }
 
   title = this.page.locator(".title");
+
+
+
+
+  
 }
